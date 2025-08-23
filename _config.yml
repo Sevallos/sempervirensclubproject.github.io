@@ -25,7 +25,7 @@ tagline: The Politics of Shaping California's Oldest State Park
 # this description might appear in search result lists, keep around 160 characters max
 description: "This digital exhibit highlights the complexities of park formation through issues of accessibility and sites of memory (test)"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: california; history; "Sempervirens Club"; "Andrew Putnam Hill"; "San Jose Woman's Club"; "Santa Cruz Mountains"; "Big Basin"; "California State Parks"; 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Gabriel Sevallos
 
@@ -52,8 +52,8 @@ metadata: demo-compoundobjects-metadata
 #
 organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-banner: 
+organization-logo-nav: 
 
 ##########
 # ROBOTS EXCLUDE
